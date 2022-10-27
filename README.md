@@ -10,6 +10,8 @@ The bot automatically logs in to the Website with credentials that is stored sec
 
 ![image](https://user-images.githubusercontent.com/46093495/198237633-325e2984-eb36-4eeb-b00d-790a4d66beb3.png)
 
+*Login Credentials can be fount in the reference document included in the project submission.* 
+
 ### Gathering test data
 
 Once logged in the bot gathers data toe be tested from a specified excel file. 
