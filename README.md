@@ -34,6 +34,12 @@ For each operation the bot documents whether the current task was completed succ
 
 Thus the user can view the results of the test by simply looking at the **Test Results** sheet. 
 
+### Deployment 
+
+Finnaly the project can be deployed to UI Path Orchastrator to be used in production.
+
+![image](https://user-images.githubusercontent.com/46093495/198242607-8f2357a5-deda-4409-8bb5-6ac7e75f00ed.png)
+
 
 
 
